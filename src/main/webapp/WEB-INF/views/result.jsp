@@ -11,6 +11,6 @@
     <title>Result</title>
 </head>
 <body>
-<h1>Result : ${vnd}</h1>
+<h1>Result : ${usd}</h1>
 </body>
 </html>
