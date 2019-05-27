@@ -12,7 +12,7 @@
 </head>
 <body>
 <form action="/next" method="post">
-USD ($) ==> VND : <input type="text" name="usd">
+USD ($) ==> VND : <input type="text" placeholder="1usd = 24000vnd" name="usd">
 <input type="submit" value="result">
 </form>
 </body>
